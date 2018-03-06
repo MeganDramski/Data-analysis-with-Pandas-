@@ -2,7 +2,7 @@
 
  Basic Reports on demographic information about the US residents.
  
-Get the dataset: https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data Here is a sample dataset with the 15 features:
+Get the dataset: https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data.
 
 1. How many men and women (sex feature) are represented in this dataset?
 2. What is the average age (age feature) of women?
